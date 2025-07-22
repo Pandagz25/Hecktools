@@ -24,5 +24,9 @@ Terminal-based tool for **educational network security testing** built with Pyth
 
 ```bash
 pkg update && pkg upgrade -y
+pkg install git
 pkg install python curl iputils -y
 pip install requests beautifulsoup4 dnspython
+git clone https://github.com/Pandagz25/Hecktools
+cd Hecktools
+python Epep.py
