@@ -1,0 +1,10 @@
+beautifulsoup4
+requests
+dnspython
+python-whois
+ipwhois
+python-nmap
+tqdm
+shodan
+builtwith
+fake-useragent
