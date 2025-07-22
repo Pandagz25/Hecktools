@@ -31,6 +31,8 @@ git clone https://github.com/Pandagz25/Hecktools
 cd Hecktools
 python Epep.py
 
+---
+
 ## UNTUK LEBIH CEPAT NYA COPY INI DAN TEMPEL
 
 ```bash
