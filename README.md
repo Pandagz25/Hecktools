@@ -30,10 +30,13 @@ pip install requests beautifulsoup4 dnspython
 git clone https://github.com/Pandagz25/Hecktools
 cd Hecktools
 python Epep.py
-
+```
+---
 # UNTUK LEBIH CEPAT NYA COPY INI DAN TEMPEL
-
+```bash
 pip install -r requirements.txt
-
-# ATAU
+```
+---
+# ATAU 
+```bash
 pip install requests beautifulsoup4 python-whois dnspython ipwhois fake-useragent tqdm
